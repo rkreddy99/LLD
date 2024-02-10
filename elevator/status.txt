@@ -1,0 +1,8 @@
+Elevator ID: 0
+Current Floor: 0
+Direction: IDLE
+
+Elevator ID: 1
+Current Floor: 9
+Direction: IDLE
+
